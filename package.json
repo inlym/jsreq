@@ -1,6 +1,6 @@
 {
     "name": "jsreq",
-    "version": "2.0.0",
+    "version": "3.0.0",
     "description": "An easy and simple Node.js HTTP client.",
     "main": "index.js",
     "scripts": {
